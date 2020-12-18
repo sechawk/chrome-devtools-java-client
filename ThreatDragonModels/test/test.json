@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "description": "fegsdf",
+    "title": "test",
+    "owner": "me"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "testing",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "greg"
+  }
+}
